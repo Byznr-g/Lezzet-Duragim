@@ -1,0 +1,59 @@
+.text-red{
+    color: rgb(139, 27, 27);
+}
+
+.text-2{
+    color: rgb(127, 182, 25);
+}
+
+.text-redd{
+    background-color: rgb(78, 158, 91);
+}
+
+li, a {
+    color: chocolate;
+}
+
+p{
+    color: rgb(26, 3, 3);
+}
+.text-align{
+    text-align:center;
+}
+
+.font-b{
+    font-family: Copperplate Gothic Light;
+}
+
+.font-ab{
+    font-family: Copperplate Gothic Light;
+}
+
+
+
+li {font-family: Copperplate Gothic Light;
+
+}
+
+
+p{
+    font-family: Copperplate;
+}
+
+.fs-14{
+    font-size: 17px;
+}
+.fs-24{
+    font-size: 34px;
+}
+.fs-30{
+    font-size: 55px;
+}
+
+.ml1{
+    margin-left: 45px;
+}
+
+.mr1{
+    margin-right: 230px;
+}
